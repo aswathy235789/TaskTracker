@@ -1,6 +1,7 @@
 # TaskTracker
 TaskTracker is a Task managing app. Were the user can add, view update and delete the tasks.
-image1.PNG
+<img width="873" alt="image1" src="https://github.com/aswathy235789/TaskTracker/assets/120011821/47bb79ee-482b-4925-a328-fd5ae20fba7b">
+
 
 ![image](https://github.com/aswathysuresh164/TaskTracker/image1.png)
 ![image](https://github.com/aswathysuresh164/TaskTracker/assets/73010370/f74fb5eb-e353-45f7-b067-7fed856770da)
